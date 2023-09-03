@@ -1,0 +1,14 @@
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\bin\Debug\net6.0\ExamenPractico1.exe
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\bin\Debug\net6.0\ExamenPractico1.deps.json
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\bin\Debug\net6.0\ExamenPractico1.runtimeconfig.json
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\bin\Debug\net6.0\ExamenPractico1.dll
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\bin\Debug\net6.0\ExamenPractico1.pdb
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.AssemblyInfoInputs.cache
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.AssemblyInfo.cs
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.csproj.CoreCompileInputs.cache
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.dll
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\refint\ExamenPractico1.dll
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.pdb
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ExamenPractico1.genruntimeconfig.cache
+C:\Users\Jocelyn Barrera\source\repos\ExamenPractico1\ExamenPractico1\obj\Debug\net6.0\ref\ExamenPractico1.dll
